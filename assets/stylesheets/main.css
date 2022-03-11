@@ -159,11 +159,11 @@ h3,
 h4,
 h5,
 p {
-  marging-bottom: 22px;
+  margin-bottom: 22px;
 }
 
 .btn {
-  border-radios: 5px;
+  border-radius: 5px;
   display: inline-block;
   margin: 0;
 }
