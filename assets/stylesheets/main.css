@@ -142,7 +142,7 @@ table {
 }
 
 .container {
-  margin: 0;
+  margin: auto;
   padding-left: 30px;
   padding-right: 30px;
   width: 960;
@@ -168,6 +168,7 @@ Buttons
 */
 
 .btn {
+  background-color: pink;
   border-radius: 5px;
   display: inline-block;
   margin: 0;
@@ -176,4 +177,13 @@ Buttons
 .btn-alt {
   border: 1px solid #dfe2e5;
   padding: 10px 30px;
+}
+/*----------------------------------------------------------------
+
+   Home
+ ----------------------------------------------------------------
+*/
+
+.hero {
+  padding: 22px 80px 66px 80px;
 }
