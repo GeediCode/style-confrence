@@ -304,6 +304,10 @@ Buttons
   float: left;
 }
 
+.tagline {
+  margin: 66px 0 22px 0;
+}
+
 /* =================================================================
 
   Primary footer
