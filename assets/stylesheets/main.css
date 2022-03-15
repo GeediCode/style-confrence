@@ -263,7 +263,16 @@ Buttons
 */
 
 .hero {
+  line-height: 44px;
   padding: 22px 80px 66px 80px;
+}
+
+.her h2 {
+  font-size: 36;
+}
+
+.hero p {
+  font: size 24px;
 }
 
 /* ============================================================
@@ -308,19 +317,27 @@ Buttons
   margin: 66px 0 22px 0;
 }
 
+.primary-nav {
+  font: size 14px;
+  font-weight: 400;
+}
+
 /* =================================================================
 
   Primary footer
   =================================================================
   */
 
-.primary-footer small {
-  float: left;
-}
-
 .primary-footer {
+  color: #648880;
+  font-size: 14px;
   padding-bottom: 44px;
   padding-top: 44px;
+}
+
+.primary-footer small {
+  float: left;
+  font-weight: 400;
 }
 
 .col-1-3 {
