@@ -321,7 +321,7 @@ p a {
   font-weight: 400;
 }
 .primary-header a,
-.primary-footer a:hover {
+.primary-footer {
   color: #fff;
 }
 
