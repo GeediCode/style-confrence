@@ -184,6 +184,20 @@ table {
   ========================================
 */
 
+/*
+==========================================
+
+  Rows
+==========================================
+
+*/
+
+.row {
+  background: #fff;
+  min-width: 960px;
+  padding: 66px 0 44px 0;
+}
+
 .group:before,
 .group:after {
   content: "";
@@ -269,7 +283,7 @@ p a {
 
 .btn {
   border-radius: 5px;
-  color: #fff;
+  color: rgba(201, 13, 169, 0.747);
   cursor: pointer;
   display: inline-block;
   font-weight: 400;
@@ -278,8 +292,13 @@ p a {
   text-transform: uppercase;
 }
 .btn-alt {
-  border: 1px solid #dfe2e5;
+  border: 1px solid #fff;
   padding: 10px 30px;
+}
+
+.btn-alt:hover {
+  background: #fff;
+  color: #648880;
 }
 
 /*
