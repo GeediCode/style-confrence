@@ -269,8 +269,13 @@ p a {
 
 .btn {
   border-radius: 5px;
+  color: #fff;
+  cursor: pointer;
   display: inline-block;
+  font-weight: 400;
+  letter-spacing: 0.5px;
   margin: 0;
+  text-transform: uppercase;
 }
 .btn-alt {
   border: 1px solid #dfe2e5;
@@ -347,6 +352,7 @@ p a {
 */
 
 .hero {
+  color: #fff;
   line-height: 44px;
   padding: 22px 80px 66px 80px;
   text-align: center;
