@@ -246,12 +246,6 @@ em {
   font-style: italic;
 }
 
-p {
-  letter-spacing: none;
-  word-spacing: 0.25em;
-  text-align: center;
-}
-
 /*
   ========================================
   Links
@@ -359,8 +353,4 @@ p a {
 }
 .teaser a:hover h3 {
   color: #a9b2b9;
-}
-
-p {
-  text-transform: inherit;
 }
